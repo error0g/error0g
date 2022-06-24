@@ -2,4 +2,4 @@
 
 ### 你好呀 👋
 
-- :orange_book: Focusing on Java & C++
+- :orange_book: Focusing on Database
